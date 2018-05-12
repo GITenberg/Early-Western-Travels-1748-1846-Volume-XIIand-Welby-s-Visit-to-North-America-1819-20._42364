@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '33780'
     url: http://www.gutenberg.org/2009/agents/33780
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42364#Early-Western-Travels-1748-1846-Volume-XIIand-Welby-s-Visit-to-North-America-1819-20.
 gutenberg_issued: '2013-03-18'
 gutenberg_type: Text
 identifiers:
